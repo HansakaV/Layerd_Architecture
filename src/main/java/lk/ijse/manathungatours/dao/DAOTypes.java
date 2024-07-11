@@ -1,0 +1,6 @@
+package lk.ijse.manathungatours.dao;
+
+public enum DAOTypes {
+
+    BOOKING,BOOKING_DETAIL,BUS,CONDUCTOR,CUSTOMER,DRIVER,ENGINEER,FINANCIAL,PLACE_BOOKING,ROUTE
+}
